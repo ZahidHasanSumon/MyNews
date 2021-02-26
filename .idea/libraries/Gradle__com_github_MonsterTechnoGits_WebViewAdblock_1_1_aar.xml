@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MonsterTechnoGits:WebViewAdblock:1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07154d72cf1c554876ebacb6fb55a395/jetified-WebViewAdblock-1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07154d72cf1c554876ebacb6fb55a395/jetified-WebViewAdblock-1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/07154d72cf1c554876ebacb6fb55a395/jetified-WebViewAdblock-1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MonsterTechnoGits/WebViewAdblock/1.1/562507f75e14b21372d8fd8f55e2b05a316a49c7/WebViewAdblock-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
